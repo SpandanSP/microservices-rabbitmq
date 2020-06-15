@@ -1,9 +1,11 @@
-Author : Spandan Pramanik
-Description : A simple microservice project with RabbitMQ as messaging broker.
-Project structure: 
--broker [Communicates between publisher and consumer by sending and reciving messages from RabbitMQ]
--publisher [Sends Messages to broker]
--consumer [Recives message from broker]
+Author: Spandan Pramanik
+
+Description: A simple microservice project with RabbitMQ as messaging broker.
+
+Project structure:
+1. broker [Communicates between publisher and consumer by sending and reciving messages from RabbitMQ]
+2. publisher [Sends Messages to broker]
+3. consumer [Recives message from broker]
 
 How to Run?
 1. Run RabbitMQ in a docker container on port 5672
