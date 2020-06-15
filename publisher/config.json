@@ -1,0 +1,4 @@
+{
+  "brokerUrl": "http://localhost:5000/",
+  "consumerServerUrl": "http://localhost:5002/"
+}

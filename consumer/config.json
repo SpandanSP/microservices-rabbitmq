@@ -1,0 +1,4 @@
+{
+  "brokerUrl": "http://localhost:5000/",
+  "publisherServerUrl": "http://localhost:5001/"
+}
